@@ -8,4 +8,4 @@ Now execute your ruby script:
 
 ```ruby goFromRuby.rb ```
 
-Whala!
+Whala! (Note, requires Golang version 1.5)
